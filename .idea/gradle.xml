@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/KI-System_zur_Dialogfuehrung_in_der_sozialen_Arbeit-master/Echobot" />
+        <option name="gradleJvm" value="azul-15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/KI-System_zur_Dialogfuehrung_in_der_sozialen_Arbeit-master/Echobot" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
